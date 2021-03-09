@@ -13,9 +13,11 @@
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:---:|
 |2021-03-09|0.0.1|Criação do documento|Davi Antônio|
+|2021-03-09|0.0.2|Atualização da nomenclatura das histórias de usuário|Marcos Adriano|
+|2021-03-09|0.0.3|Atualizar nomenclatura SAFe e descrição do épico|Davi Antônio|
 
-## 1. Temas de investimento
-|Temas de investimentos|Descrição|
+## 1. Temas estratégicos
+|Temas estratégicos|Descrição|
 |:--------------------:|:-------------------------------------------:|
 |IT01|Entregar ao usuário o controle de suas anotações|
 
@@ -23,7 +25,7 @@
 
 |Épicos|Descrição|
 |:----:|:-------------------:|
-|EP01|Apresentação do MVP|
+|EP01|Permitir que usuário crie anotações, exporte notas e atribua etiquetas|
 
 ## 3. Features
 
