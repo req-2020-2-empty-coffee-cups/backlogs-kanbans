@@ -13,11 +13,9 @@
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:---:|
 |2021-03-09|0.0.1|Criação do documento|Davi Antônio|
-|2021-03-09|0.0.2|Atualização da nomenclatura das histórias de usuário|Marcos Adriano|
-|2021-03-09|0.0.3|Atualizar nomenclatura SAFe e descrição do épico|Davi Antônio|
 
-## 1. Temas estratégicos
-|Temas estratégicos|Descrição|
+## 1. Temas de investimento
+|Temas de investimentos|Descrição|
 |:--------------------:|:-------------------------------------------:|
 |IT01|Entregar ao usuário o controle de suas anotações|
 
@@ -25,7 +23,7 @@
 
 |Épicos|Descrição|
 |:----:|:-------------------:|
-|EP01|Permitir que usuário crie anotações, exporte notas e atribua etiquetas|
+|EP01|Apresentação do MVP|
 
 ## 3. Features
 
@@ -52,7 +50,7 @@
 |FT01|US10|Eu como usuário desejo criar conta para acessar armazenamento remoto nuvem)|
 |FT01|US11|Eu como usuário desejo configurar preferências de armazenamento e backup|
 |FT01|US12|Eu como usuário desejo sincronizar anotações locais com armazenamento remoto (nuvem)|
-|FT03|US13|Eu como usuário desejo criar notas do tipo lista|
+|FT03|US13|Eu como usuário desejo criar anotações do tipo lista|
 |FT03|US14|Eu como usuário desejo consultar anotações por conteúdo|
 |FT03|US15|Eu como usuário desejo arquivar anotações|
 |FT04|US16|Eu como usuário desejo configurar alarmes para lembretes das anotações|
@@ -60,7 +58,7 @@
 |FT03|US18|Eu como usuário desejo compartilhar anotações com outros aplicativos em formato texto|
 |FT04|US19|Eu como usuário desejo cronometrar tempo de execução de tarefas em litsas|
 |FT02|US20|Eu como usuário desejo exportar anotações locais em JSON|
-|FT03|US21|Eu como usuário desejo criar relatório do tempo de execução de tarefas e notas temporizadas|
+|FT03|US21|Eu como usuário desejo criar relatório do tempo de execução de tarefas e anotações temporizadas|
 
 ## 5. Requisitos não funcionais
 |ID|Descrição|
