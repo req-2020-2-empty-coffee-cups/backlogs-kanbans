@@ -38,27 +38,27 @@
 
 |Feature|ID|Descrição|
 |:--:|-----|--|
-|FT03|US01|Criar anotações|
-|FT03|US02|Salvar anotações|
-|FT03|US03|Visualizar anotações|
-|FT03|US04|Editar anotações|
-|FT03|US05|Deletar anotações|
-|FT03|US06|Etiquetar anotações|
-|FT03|US07|Consultar anotações por etiquetas|
-|FT04|US08|Verificar tempo de duração de uma anotação (temporizador)|
-|FT02|US09|Exportar anotações em armazenamento local em texto puro|
-|FT01|US10|Criar conta para acessar armazenamento remoto nuvem)|
-|FT01|US11|Configurar preferências de armazenamento e backup|
-|FT01|US12|Sincronizar anotações locais com armazenamento remoto (nuvem)|
-|FT03|US13|Criar notas do tipo lista|
-|FT03|US14|Consultar anotações por conteúdo|
-|FT03|US15|Arquivar anotações|
-|FT04|US16|Configurar alarmes para lembretes das anotações|
-|FT03|US17|Habilitar colaboração em anotações|
-|FT03|US18|Compartilhar anotações com outros aplicativos em formato texto|
-|FT04|US19|Cronometrar tempo de execução de tarefas em litsas|
-|FT02|US20|Exportar anotações locais em JSON|
-|FT03|US21|Criar relatório do tempo de execução de tarefas e notas temporizadas|
+|FT03|US01|Eu como usuario desejo criar anotações|
+|FT03|US02|Eu como usuario desejo salvar anotações|
+|FT03|US03|Eu como usuario desejo visualizar anotações|
+|FT03|US04|Eu como usuario desejo editar anotações|
+|FT03|US05|Eu como usuario desejo deletar anotações|
+|FT03|US06|Eu como usuario desejo etiquetar anotações|
+|FT03|US07|Eu como usuario desejo consultar anotações por etiquetas|
+|FT04|US08|Eu como usuario desejo verificar tempo de duração de uma anotação (temporizador)|
+|FT02|US09|Eu como usuario desejo exportar anotações em armazenamento local em texto puro|
+|FT01|US10|Eu como usuario desejo criar conta para acessar armazenamento remoto nuvem)|
+|FT01|US11|Eu como usuario desejo configurar preferências de armazenamento e backup|
+|FT01|US12|Eu como usuario desejo sincronizar anotações locais com armazenamento remoto (nuvem)|
+|FT03|US13|Eu como usuario desejo criar notas do tipo lista|
+|FT03|US14|Eu como usuario desejo consultar anotações por conteúdo|
+|FT03|US15|Eu como usuario desejo arquivar anotações|
+|FT04|US16|Eu como usuario desejo configurar alarmes para lembretes das anotações|
+|FT03|US17|Eu como usuario desejo habilitar colaboração em anotações|
+|FT03|US18|Eu como usuario desejo compartilhar anotações com outros aplicativos em formato texto|
+|FT04|US19|Eu como usuario desejo cronometrar tempo de execução de tarefas em litsas|
+|FT02|US20|Eu como usuario desejo exportar anotações locais em JSON|
+|FT03|US21|Eu como usuario desejo criar relatório do tempo de execução de tarefas e notas temporizadas|
 
 ## 5. Requisitos não funcionais
 |ID|Descrição|
