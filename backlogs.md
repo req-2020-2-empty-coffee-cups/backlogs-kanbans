@@ -13,6 +13,7 @@
 |Data|Versão|Descrição|Autor|
 |:--:|:--:|:--:|:---:|
 |2021-03-09|0.0.1|Criação do documento|Davi Antônio|
+|2021-03-10|0.0.2|Atualização do documento|Marcos Adriano|
 
 ## 1. Temas de investimento
 |Temas de investimentos|Descrição|
